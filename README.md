@@ -1,5 +1,7 @@
 # Pixelboom
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## Описание
 
 Небольшой визуальный эксперимент на Pygame, в котором пользователь создаёт пиксельные точки мышью и взрывает их в разные стороны, получая простую интерактивную анимацию.
@@ -28,3 +30,8 @@
 ## Статус
 
 WIP. Базовый интерактивный цикл готов, но проект можно развивать дальше: добавить звук, эффекты затухания, больше типов частиц и сохранение сцен.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
